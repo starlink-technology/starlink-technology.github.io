@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Application</title>
+    <title>NFCDaemon</title>
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>Application 2.0.0</title>
-      <pubDate>Wed, 29 Nov 2023 12:35:51 +03:00</pubDate>
-      <sparkle:version>2.0.0</sparkle:version>
-      <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
-      <enclosure url="https://starlink-technology.github.io/NFCDaemon-1.0.0.exe" sparkle:version="2.0.0" sparkle:shortVersionString="2.0" length="15492484" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="true" />
+      <title>NFCDaemon 1.0.0</title>
+      <pubDate>Wed, 29 Nov 2023 15:56:34 +03:00</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:criticalUpdate />
+      <enclosure url="https://starlink-technology.github.io/nfcdaemon-setup-1.0.0.exe" sparkle:version="1.0.0" sparkle:shortVersionString="1.0" length="6506048" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="true" />
     </item>
   </channel>
 </rss>
